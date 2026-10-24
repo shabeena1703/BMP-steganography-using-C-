@@ -199,12 +199,16 @@ The approach preserves the image's general visual appearance while allowing the 
 
 ## 🚀 Future Enhancements
 
-- Support additional image formats.
-- Add password-based protection.
-- Improve error handling and input validation.
-- Develop a graphical user interface.
-- Add encryption before embedding secret data.
+## 🚀 Future Scope
 
+- Support PNG and JPEG formats.
+- Encrypt secret messages before embedding.
+- Add password protection.
+- Support PDF, audio, and video files.
+- Develop a GUI.
+- Increase data embedding capacity.
+- Optimize performance for larger files.
+  
 ## 👩‍💻 Author
 
 **Shaik Shabeena**
