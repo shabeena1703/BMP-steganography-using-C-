@@ -160,28 +160,27 @@ This command extracts the hidden data from `stego.bmp` and saves it in `decoded.
 ### Encoding Output
 
 ```text
-INFO: ## Encoding Procedure Started ##
+INFO: Encoding Procedure Started 
 INFO: Opening required files
 INFO: Encoding magic string
 INFO: Encoding secret file extension
 INFO: Encoding secret file size
 INFO: Encoding secret file data
-INFO: ## Encoding Completed Successfully ##
+INFO: Encoding Completed Successfully 
 ```
 
 ### Decoding Output
 
 ```text
-INFO: ## Decoding Procedure Started ##
+INFO: Decoding Procedure Started 
 INFO: Opening encoded image
 INFO: Decoding magic string
 INFO: Decoding secret file extension
 INFO: Decoding secret file size
 INFO: Decoding secret file data
-INFO: ## Decoding Completed Successfully ##
+INFO: Decoding Completed Successfully 
 ```
 
-*The sample messages are illustrative; actual output depends on the messages implemented in the source code.*
 
 ## ⚠️ Challenges Faced
 
